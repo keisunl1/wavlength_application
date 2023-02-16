@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "22786746100",
+    "project_id": "wavlength-3e66a",
+    "storage_bucket": "wavlength-3e66a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22786746100:android:4b5dc330316fb9c106a0a1",
+        "android_client_info": {
+          "package_name": "com.example.wavlength_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22786746100-kf1obup9054v96no23ha40nuei3d2gd2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCitZojXmlHkE8suZtWwGwDGFM0wC-SkzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22786746100-kf1obup9054v96no23ha40nuei3d2gd2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "22786746100-ve8d3t7umeiu53651jhgjqrlr474qt28.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wavlength.myApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
